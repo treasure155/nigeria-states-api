@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background-color: #fff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 600px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #stateInput {
+    width: calc(100% - 100px);
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  #searchBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #searchBtn:hover {
+    background-color: #0056b3;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }
+  
+  #stateInfoTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #stateInfoTable th, #stateInfoTable td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  #stateInfoTable th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  #stateInfoTable tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  

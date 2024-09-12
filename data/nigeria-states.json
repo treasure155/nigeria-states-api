@@ -1,0 +1,188 @@
+[
+    {
+      "state": "Abia",
+      "capital": "Umuahia",
+      "governor": "Alex Otti"
+    },
+    {
+      "state": "Adamawa",
+      "capital": "Yola",
+      "governor": "Ahmadu Fintiri"
+    },
+    {
+      "state": "Akwa Ibom",
+      "capital": "Uyo",
+      "governor": "Umo Eno"
+    },
+    {
+      "state": "Anambra",
+      "capital": "Awka",
+      "governor": "Chukwuma Soludo"
+    },
+    {
+      "state": "Bauchi",
+      "capital": "Bauchi",
+      "governor": "Bala Mohammed"
+    },
+    {
+      "state": "Bayelsa",
+      "capital": "Yenagoa",
+      "governor": "Douye Diri"
+    },
+    {
+      "state": "Benue",
+      "capital": "Makurdi",
+      "governor": "Hyacinth Alia"
+    },
+    {
+      "state": "Borno",
+      "capital": "Maiduguri",
+      "governor": "Babagana Zulum"
+    },
+    {
+      "state": "Cross River",
+      "capital": "Calabar",
+      "governor": "Bassey Otu"
+    },
+    {
+      "state": "Delta",
+      "capital": "Asaba",
+      "governor": "Sheriff Oborevwori"
+    },
+    {
+      "state": "Ebonyi",
+      "capital": "Abakaliki",
+      "governor": "Francis Nwifuru"
+    },
+    {
+      "state": "Edo",
+      "capital": "Benin City",
+      "governor": "Godwin Obaseki"
+    },
+    {
+      "state": "Ekiti",
+      "capital": "Ado Ekiti",
+      "governor": "Biodun Oyebanji"
+    },
+    {
+      "state": "Enugu",
+      "capital": "Enugu",
+      "governor": "Peter Mbah"
+    },
+    {
+      "state": "Gombe",
+      "capital": "Gombe",
+      "governor": "Muhammad Inuwa Yahaya"
+    },
+    {
+      "state": "Imo",
+      "capital": "Owerri",
+      "governor": "Hope Uzodinma"
+    },
+    {
+      "state": "Jigawa",
+      "capital": "Dutse",
+      "governor": "Umar Namadi"
+    },
+    {
+      "state": "Kaduna",
+      "capital": "Kaduna",
+      "governor": "Uba Sani"
+    },
+    {
+      "state": "Kano",
+      "capital": "Kano",
+      "governor": "Abba Yusuf"
+    },
+    {
+      "state": "Katsina",
+      "capital": "Katsina",
+      "governor": "Dikko Radda"
+    },
+    {
+      "state": "Kebbi",
+      "capital": "Birnin Kebbi",
+      "governor": "Nasir Idris"
+    },
+    {
+      "state": "Kogi",
+      "capital": "Lokoja",
+      "governor": "Yahaya Bello"
+    },
+    {
+      "state": "Kwara",
+      "capital": "Ilorin",
+      "governor": "AbdulRahman AbdulRazaq"
+    },
+    {
+      "state": "Lagos",
+      "capital": "Ikeja",
+      "governor": "Babajide Sanwo-Olu"
+    },
+    {
+      "state": "Nasarawa",
+      "capital": "Lafia",
+      "governor": "Abdullahi Sule"
+    },
+    {
+      "state": "Niger",
+      "capital": "Minna",
+      "governor": "Umar Bago"
+    },
+    {
+      "state": "Ogun",
+      "capital": "Abeokuta",
+      "governor": "Dapo Abiodun"
+    },
+    {
+      "state": "Ondo",
+      "capital": "Akure",
+      "governor": "Rotimi Akeredolu"
+    },
+    {
+      "state": "Osun",
+      "capital": "Oshogbo",
+      "governor": "Ademola Adeleke"
+    },
+    {
+      "state": "Oyo",
+      "capital": "Ibadan",
+      "governor": "Seyi Makinde"
+    },
+    {
+      "state": "Plateau",
+      "capital": "Jos",
+      "governor": "Caleb Mutfwang"
+    },
+    {
+      "state": "Rivers",
+      "capital": "Port Harcourt",
+      "governor": "Siminalayi Fubara"
+    },
+    {
+      "state": "Sokoto",
+      "capital": "Sokoto",
+      "governor": "Ahmad Aliyu"
+    },
+    {
+      "state": "Taraba",
+      "capital": "Jalingo",
+      "governor": "Agbu Kefas"
+    },
+    {
+      "state": "Yobe",
+      "capital": "Damaturu",
+      "governor": "Mai Mala Buni"
+    },
+    {
+      "state": "Zamfara",
+      "capital": "Gusau",
+      "governor": "Dauda Lawal"
+    },
+    {
+      "state": "FCT",
+      "capital": "Abuja",
+      "governor": "Muhammad Musa Bello"
+    }
+  ]
+  

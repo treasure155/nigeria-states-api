@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nigeria State Info</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Nigeria State Information</h1>
+    <input type="text" id="stateInput" placeholder="Enter state name" />
+    <button id="searchBtn">Search</button>
+    <div id="result">
+      <table id="stateInfoTable">
+        <thead>
+          <tr>
+            <th>State</th>
+            <th>Capital</th>
+            <th>Governor</th>
+          </tr>
+        </thead>
+        <tbody id="stateInfoBody">
+          <tr>
+            <td colspan="3" style="text-align:center;">No information available</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
